@@ -2,7 +2,7 @@
 Generates conversation in any language using local ollama LLM which is then played using pygame tts
 
 ### Photos & Demos
-
+<img src="/demo-screenshot.png" width="600">
 
 ## How it works
 - Prompting -- a set prompt is given to the Ollama LLM with placeholders for variables such as language, topic of text, leght and any extra notes that are then inserted into the chat logs that the LLM recieves
